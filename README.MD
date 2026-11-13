@@ -42,8 +42,7 @@ A detailed description of the prompts, inference configuration, model execution 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mistral-7b-prompt-engineering.git
-cd mistral-7b-prompt-engineering
+git clone https://github.com/ngualteros/Mistral-7B-LLM-Prompting-Experiments.git
 ```
 
 ### 2. Create a virtual environment
