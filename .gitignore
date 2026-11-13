@@ -1,0 +1,36 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Model weights
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+
+# Downloaded models
+models/
+checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db
